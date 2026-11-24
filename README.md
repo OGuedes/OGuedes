@@ -8,9 +8,10 @@
 
 <br/>
 
-![Experiência](https://img.shields.io/badge/Experi%C3%AAncia-~6%20anos-7C3AED?style=for-the-badge)
-![Foco](https://img.shields.io/badge/Foco-Full%20Stack%20%7C%20IA%20%7C%20SaaS-0EA5E9?style=for-the-badge)
-![Local](https://img.shields.io/badge/S%C3%A3o%20Paulo-Brasil-009C3B?style=for-the-badge)
+![Stack](https://img.shields.io/badge/Stack-PHP%20%7C%20C%23%20%7C%20TypeScript%20%7C%20React-7C3AED?style=for-the-badge)
+![IA](https://img.shields.io/badge/IA-LLMs%20%7C%20Agentes%20%7C%20Automa%C3%A7%C3%B5es-0EA5E9?style=for-the-badge)
+![Dados](https://img.shields.io/badge/Dados-MySQL%20%7C%20PostgreSQL%20%7C%20SQLite-4169E1?style=for-the-badge)
+![Cloud](https://img.shields.io/badge/Cloud-AWS%20%7C%20Docker%20%7C%20CI%2FCD-FF9900?style=for-the-badge)
 
 </div>
 
@@ -25,6 +26,7 @@ Há quase seis anos trabalho na criação e evolução de projetos digitais para
 - Investigar falhas, ajustar código legado, otimizar consultas e melhorar a performance e a estabilidade de aplicações em produção
 - Liderar entregas e trabalhar de forma colaborativa com outros desenvolvedores e times, passando de Júnior a **Sênior / Tech Lead**
 - Projetar a arquitetura de soluções com **IA**, integrando modelos de linguagem e automações inteligentes aos produtos
+- Containerizar aplicações com **Docker** e automatizar build, testes e deploy com pipelines de **CI/CD** (GitHub Actions)
 - Cuidar de WordPress/WooCommerce, SEO e performance quando o projeto pede
 
 Gosto de trabalhar onde design e desenvolvimento se encontram, e também mantenho a **Gustavo Prime**, minha marca independente para portfólio, projetos próprios e novas parcerias.
@@ -90,6 +92,8 @@ Gosto de trabalhar onde design e desenvolvimento se encontram, e também mantenh
 ![SOLID](https://img.shields.io/badge/SOLID-111827?style=flat-square)
 ![Clean Code](https://img.shields.io/badge/Clean_Code-111827?style=flat-square)
 ![Git Flow](https://img.shields.io/badge/Git_Flow-111827?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-111827?style=flat-square)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-111827?style=flat-square)
 ![Código legado](https://img.shields.io/badge/C%C3%B3digo_legado-111827?style=flat-square)
 ![Performance](https://img.shields.io/badge/Performance-111827?style=flat-square)
 ![SEO](https://img.shields.io/badge/SEO-111827?style=flat-square)
