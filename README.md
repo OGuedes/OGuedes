@@ -2,9 +2,9 @@
 
 # Olá, eu sou o Gustavo Guedes
 
-### Engenheiro de Software Full Stack & Arquiteto de IA
+### Desenvolvedor Full Stack & Arquiteto de IA
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=7C3AED&center=true&vCenter=true&width=640&lines=Engenharia+de+Software+Full+Stack;Arquitetura+de+solu%C3%A7%C3%B5es+com+IA;APIs+REST+%2C+integra%C3%A7%C3%B5es+e+automa%C3%A7%C3%B5es;SaaS%2C+e-commerces+e+plataformas+web;Quase+6+anos+criando+produtos+digitais" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=7C3AED&center=true&vCenter=true&width=640&lines=Desenvolvimento+Full+Stack;Arquitetura+de+solu%C3%A7%C3%B5es+com+IA;APIs+REST+%2C+integra%C3%A7%C3%B5es+e+automa%C3%A7%C3%B5es;SaaS%2C+e-commerces+e+plataformas+web;Quase+6+anos+criando+produtos+digitais" alt="Typing SVG" />
 
 <br/>
 
