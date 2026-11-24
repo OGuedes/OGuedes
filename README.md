@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá, eu sou o Gustavo Guedes 👋
+# Olá, eu sou o Gustavo Guedes
 
 ### Engenheiro de Software Full Stack & Arquiteto de IA
 
@@ -17,7 +17,7 @@
 
 ---
 
-## 🚀 Sobre mim
+## Sobre mim
 
 Há quase seis anos trabalho na criação e evolução de projetos digitais para empresas de diferentes segmentos. Na prática, isso significa:
 
@@ -31,7 +31,7 @@ Há quase seis anos trabalho na criação e evolução de projetos digitais para
 
 Gosto de trabalhar onde design e desenvolvimento se encontram, e também mantenho a **Gustavo Prime**, minha marca independente para portfólio, projetos próprios e novas parcerias.
 
-## 🎯 Foco
+## Foco
 
 | | |
 |---|---|
@@ -42,13 +42,13 @@ Gosto de trabalhar onde design e desenvolvimento se encontram, e também mantenh
 | **Qualidade** | Depuração, manutenção de código legado, performance e estabilidade |
 | **Web** | WordPress, WooCommerce, SEO, performance, UX/UI |
 
-## 🧰 Linguagens
+## Linguagens
 
 <p>
   <img src="https://skillicons.dev/icons?i=php,js,ts,html,css,python,java,cs,go,bash&perline=10" alt="Linguagens" />
 </p>
 
-## ⚙️ Frameworks & bibliotecas
+## Frameworks & bibliotecas
 
 <p>
   <img src="https://skillicons.dev/icons?i=laravel,nodejs,express,react,nextjs,vue,tailwind,bootstrap,sass,jquery,wordpress&perline=11" alt="Frameworks" />
@@ -63,7 +63,7 @@ Gosto de trabalhar onde design e desenvolvimento se encontram, e também mantenh
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
-## 🗄️ Bancos de dados
+## Bancos de dados
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,redis,mongodb,supabase&perline=6" alt="Bancos de dados" />
@@ -74,13 +74,13 @@ Gosto de trabalhar onde design e desenvolvimento se encontram, e também mantenh
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-## ☁️ Cloud, DevOps & ferramentas
+## Cloud, DevOps & ferramentas
 
 <p>
   <img src="https://skillicons.dev/icons?i=aws,docker,nginx,apache,linux,git,github,githubactions,postman,figma,vscode,phpstorm&perline=12" alt="Ferramentas" />
 </p>
 
-## 🏗️ Conhecimentos & práticas
+## Conhecimentos & práticas
 
 ![APIs REST](https://img.shields.io/badge/APIs_REST-111827?style=flat-square)
 ![Integrações](https://img.shields.io/badge/Integra%C3%A7%C3%B5es-111827?style=flat-square)
@@ -100,14 +100,14 @@ Gosto de trabalhar onde design e desenvolvimento se encontram, e também mantenh
 ![Análise de dados](https://img.shields.io/badge/An%C3%A1lise_de_dados-111827?style=flat-square)
 ![Planejamento de sistemas](https://img.shields.io/badge/Planejamento_de_sistemas-111827?style=flat-square)
 
-## 🎓 Formação
+## Formação
 
 - **Tecnólogo em Análise e Desenvolvimento de Sistemas**, Cruzeiro do Sul Virtual (2022 – 2024)
 - **Programação de Computadores**, Fatec Sebrae (2021 – 2023)
 - **Design de Games e Mídia Digital**, Alura (pós-graduação, 2019 – 2020)
 - Formações na Alura em web, front-end, back-end, análise de dados, segurança, AWS e cloud computing
 
-## 📊 GitHub stats
+## GitHub stats
 
 <div align="center">
 
@@ -116,7 +116,7 @@ Gosto de trabalhar onde design e desenvolvimento se encontram, e também mantenh
 
 </div>
 
-## 🤝 Vamos conversar
+## Vamos conversar
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gustavoguedes-16270217a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
