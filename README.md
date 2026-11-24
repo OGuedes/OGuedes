@@ -77,7 +77,7 @@ Gosto de trabalhar onde design e desenvolvimento se encontram, e também mantenh
 ## Cloud, DevOps & ferramentas
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,nginx,apache,linux,git,github,githubactions,postman,figma,vscode,phpstorm&perline=12" alt="Ferramentas" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,nginx,linux,git,github,githubactions,postman,figma,vscode,phpstorm&perline=11" alt="Ferramentas" />
 </p>
 
 ## Conhecimentos & práticas
