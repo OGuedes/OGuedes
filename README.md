@@ -107,14 +107,6 @@ Gosto de trabalhar onde design e desenvolvimento se encontram, e também mantenh
 - **Design de Games e Mídia Digital**, Alura (pós-graduação, 2019 – 2020)
 - Formações na Alura em web, front-end, back-end, análise de dados, segurança, AWS e cloud computing
 
-## GitHub stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=OGuedes&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OGuedes&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
-
-</div>
 
 ## Vamos conversar
 
